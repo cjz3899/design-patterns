@@ -39,3 +39,6 @@ build/
 .DS_Store
 /.idea/
 /.workbuddy/
+
+src/main/java/com/junzhecai/observer/WeatherStation/weather.jsonl
+src/main/java/com/junzhecai/observer/WeatherStation/weather_history.jsonl
